@@ -1,6 +1,6 @@
 # Arduino Car using IR Remote!
 
-Made a remote control car using IR receivers to control the movement of the vehicle.
+Made a remote control car using an IR receiver to control the movement of the vehicle.
 
 Programmed LED's to be used as turn signals in the car. 
 
